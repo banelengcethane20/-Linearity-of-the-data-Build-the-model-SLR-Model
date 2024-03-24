@@ -1,4 +1,4 @@
-#PRACTICAL 5
+#PRACTICAL 
 #(i)
 # Linearity of the data 
 library(ggfortify)#For graphics 
